@@ -1,0 +1,48 @@
+{
+  "name": "panli-ppt",
+  "jsname": "panliPPT",
+  "description": "A simple, in-browser, markdown-driven presentation framework",
+  "version": "0.0.3",
+  "site": "https://github.com/ipanli/panliPPT2",
+  "author": "zan <youyadaojia@gmail.com>",
+  "bin": {
+    "panlippt": "bin/panlippt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ipanli/panliPPT2.git"
+  },
+  "dependencies": {
+    "colors": ">=0.6.0-1",
+    "commander": "2.9.0",
+    "connect": "2.11.0",
+    "cookie": ">=0.1.0",
+    "ejs": "0.8.4",
+    "ipv4": "0.0.4",
+    "read": ">=1.0.4",
+    "socket.io": "1.3.3",
+    "chokidar": "1.0.0-rc3",
+    "mathjax": "2.5.1"
+  },
+  "keywords": [
+    "presentation",
+    "powerpoint",
+    "slideshow",
+    "keynote",
+    "ppt",
+    "slide",
+    "revealjs",
+    "impressjs",
+    "markdown"
+  ],
+  "license": "SEE LICENSE IN MIT-LICENSE.txt",
+  "bugs": {
+    "url": "https://github.com/ipanli/panliPPT2/issues"
+  },
+  "homepage": "https://github.com/ipanli/panliPPT2#readme",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
