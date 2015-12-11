@@ -105,3 +105,41 @@ panlippt start -c socket
 
 ```bash
 http://127.0.0.1:8080/md/demo.md?_multiscreen=1
+
+```
+
+
+
+[slide]
+#### 导处html
+
+```bash
+# 获取generate帮助
+panlippt generate -h
+# 使用generate命令
+panlippt generate filepath
+# 导出全部，包括panlippt的js、img和css文件夹
+# 默认导出在publish文件夹
+panlippt generate ./ppts/demo.md -a
+# 指定导出文件夹
+panlippt generate ./ppts/demo.md output/path -a
+```
+导出目录下所有ppt，并且生成ppt list首页：
+
+```bash
+panlippt path output/path -a
+```
+
+
+
+#### 单页ppt上下布局
+```markdown
+[slide]
+## 主页面样式
+### ----是上下分界线
+----
+panlippt 是基于nodejs写的支持 **Markdown!** 语法的网页PPT
+
+```
+
+
