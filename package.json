@@ -2,7 +2,7 @@
   "name": "panli-ppt",
   "jsname": "panliPPT",
   "description": "A simple, in-browser, markdown-driven presentation framework",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "site": "https://github.com/ipanli/panliPPT2",
   "author": "zan <youyadaojia@gmail.com>",
   "bin": {

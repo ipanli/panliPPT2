@@ -6,7 +6,11 @@ files: /js/demo.js,/css/demo.css,/js/zoom.js
 theme: dark
 usemathjax: yes
 
-[slide style="background-image:url('/ppts/images/ppt-start.png')"]
+[slide data-transition="kontext"]
+
+# 2015
+
+### 年终总结汇报
 
 [slide]
 ## 你喜欢什么颜色的背景
@@ -143,7 +147,8 @@ panli 主站的 活动页 和 专题页的开发
 ----
 
 
-<iframe data-src="http://kushagragour.in/code-blast-codemirror/demo/" src="about:blank;"></iframe>
+![码农的乐趣之一](http://zanjs.b0.upaiyun.com/image/a/fa/e6f29246efd3669b14b7e15e73042.gif)
+
 
 
 [slide]
