@@ -1,4 +1,4 @@
-title: 2015年述职报告
+title: Julian 2015年述职报告
 speaker: zan 
 url: https://github.com/ipanli/panliPPT.git
 transition: move
@@ -65,6 +65,15 @@ usemathjax: yes
 $$ x = {-b \pm \sqrt{b^2-4ac} \over 2a}.    s = ut + \frac{1}{2}at^2 $$
 矩阵：\\( x = {\begin{bmatrix} 1 & 2 & 3 \\\\ 4 & 5 & 6 \end{bmatrix}}  \\)
 
+
+[slide]
+
+## 如何有效管理你的代码
+
+
+![版本控制个人主页](http://zanjs.b0.upaiyun.com/image/6/bb/46c8625ddb593a17dd48206e17cb5.png) 
+
+ 
 
 [slide]
 ## Panli 前端组件库
@@ -135,7 +144,7 @@ panli 主站的 活动页 和 专题页的开发
 ## 未来能做什么
 
 
->每日码农,终有一日顶苍天！
+>一年码农,十年树木，百年树人
 
 -----
 ![码农](http://zanjs.b0.upaiyun.com/image/b/1c/537b37ceab485eae690dce1235420.png)
@@ -183,41 +192,6 @@ panli 主站的 活动页 和 专题页的开发
 
 
 [slide]
-
-## 代码格式化
-### 使用 `highlightjs` 进行语法高亮
-----
-<div class="columns-2">
-    <pre><code class="javascript">(function(window, document){
-    var a = 1;
-    var test = function(){
-        var b = 1;
-        alert(b);
-    };
-    //泛数组转换为数组
-    function toArray(arrayLike) {
-        return [].slice.call(arrayLike);
-    }
-}(window, document));
-    </code></pre>
-    <pre><code class="javascript">(function(window, document){
-    var a = 1;
-    var test = function(){
-        var b = 1;
-        alert(b);
-    };
-    //泛数组转换为数组
-    function toArray(arrayLike) {
-        return [].slice.call(arrayLike);
-    }
-}(window, document));
-    </code></pre>
-</div>
-
-
-
-
-[slide]
 [note]
 ## 如何做好笔记
 
@@ -231,9 +205,28 @@ panli 主站的 活动页 和 专题页的开发
 ---
 按下键盘【N】键预览笔记，
 
+
+[slide data-transition="vertical3d"]
+
+## 职业规划
+
+---
+1. 前端深度挖坑 {:&.rollIn}
+2. 做一套全栈型的前端解决方案
+3. 转变编程思想 ((函数式编程思维)[http://www.zhihu.com/question/28292740])
+4. 新技术改变产品用户体验。
+
+
+[slide data-transition="cards"]
+
+## 完结
+
+>感谢祖国 ，感谢党 , 感谢公司 , 给我这个机会。
+
+
 [slide data-transition="kontext"]
 
-## 使用画笔
+## 使用画笔 （附录）
 ### 使用画笔做标记哦~你也可以随便作画啊！
 ---
 按下键盘【P】键：按下鼠标左键，在此处乱花下看看效果。
