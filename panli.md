@@ -1,4 +1,4 @@
-title: Julian 2015年述职报告
+title: 2015年述职报告
 speaker: zan 
 url: https://github.com/ipanli/panliPPT.git
 transition: move
@@ -13,108 +13,105 @@ usemathjax: yes
 ### 年终总结汇报
 
 [slide]
-## 你喜欢什么颜色的背景
+## 点击切换背景，用你的手机试试看
 ----
 
 [深蓝](?theme=moon)-[亮蓝](?theme=blue)-[黑色](?theme=dark)-[绿色](?theme=green)-[白色](?theme=light)
 
 
 [slide]
-
 # 我是谁?
-## 我来这里做什么
-<small>演讲者：周赞生 (Julian)</small>
-
-[slide]
-
-
-# 你是干嘛的 {:&.flexbox.vleft}
-> 前端工程师 (欠锻攻城狮) -- 优雅的90后,每天写点有意思的代码,然后分享给朋友看,Hi,xxx,这是刚出炉的，酷不酷( 裤呆了 )！
-
-
-
-[slide]
-## 理想的工作环境
+[subslide]
 ----
-* 极客代码疯狂群体 {:&.rollIn}
-* 新技术发烧友
-* 全栈工程师
-* 开源爱好者
-* 为自己的理想方案而争吵
-* 专业填坑100年
+* 我叫周赞生，Julian {:&.rollIn}
+* 作为一个优雅的90后
+* 我是一个纯粹的技术发烧友
+* 也做过全栈工程师
+* 曾经为自己的理想方案而争吵过
+* 也可以专业填坑100年
+[/subslide]
+
+
+[slide]
+# 我来这里做什么 {:&.flexbox.vleft}
+> 一个Panli的前端工程师 (欠锻攻城狮) -- 除了日常工作，每天写点有意思的代码,然后分享给同事和朋友看,Hi,xxx,这是刚出炉的，酷不酷( 裤呆了 )！
+
 
 
 [slide]
 ## 目前的开发环境
 ----
-
-![目前的开发环境](http://zanjs.b0.upaiyun.com/image/f/75/e7f9489cd69d1625e5326665f247b.jpg)
-
-
+![目前的开发环境](http://zanjs.b0.upaiyun.com/image/a/bb/aecb34ff7299b12a8398a75023409.jpg)
 
 [slide]
-## 跨终端同步响应
+## 理想的开发环境
 ----
+![理想的开发环境](http://zanjs.b0.upaiyun.com/image/d/5b/2eeb7e47bd47c52b10a57a2634384.png)
 
-![目前的开发环境](http://zanjs.b0.upaiyun.com/image/1/c4/aceebbaf49ede7e599027d0d48565.gif)
 
 [slide]
-
-## 我们做了些什么 
-
+## 目前做了些什么 
 $$ x = {-b \pm \sqrt{b^2-4ac} \over 2a}.    s = ut + \frac{1}{2}at^2 $$
 矩阵：\\( x = {\begin{bmatrix} 1 & 2 & 3 \\\\ 4 & 5 & 6 \end{bmatrix}}  \\)
-
-
-[slide]
-
-## 如何有效管理你的代码
-
-
-![版本控制个人主页](http://zanjs.b0.upaiyun.com/image/6/bb/46c8625ddb593a17dd48206e17cb5.png) 
-
- 
-
-[slide]
-## Panli 前端组件库
 ----
 
-<iframe data-src="http://panli.mu.gg/book-pc/" src="about:blank;"></iframe>
-
-
+<small>抱歉，我自己也不懂</small>
 
 [slide]
-
 ## 日常工作
-
-----
-
-panli 主站的 活动页 和 专题页的开发
-
-
-[slide]
-
 [subslide]
-## 通过日常工作学到了
----
-* 同事间的同力协作
-    * 明确工作流程 {:&.moveIn}
-    * 遇到问题立马解决
-	* 职责所在寻求帮助
-    * 文字泪奔~~o(>_<)o ~~
-============
-## 前端已经不在是一个手工的年代
----
-1. 快速敏捷开发？ {:&.rollIn}
-2. 前端工程化 -- 思想很重要
-3. 前端自动化 -- 开发环境自动化工具 
-3. 前端组件化 --  可复用,可复制。
-4. 界面设计语言 -- 风格统一，认识度高。
+----
+* panli主站前端开发 {:&.moveIn}
+* 运营活动和专题的PC前端
+* 运营活动和专题的H5前端
+* APP的内嵌H5开发及预研
+* 将来也许会有更多...
 [/subslide]
 
 
 [slide]
-## 如何有效传播新 (New) 技能 （get）
+## 我还做了哪些？ 
+###Par1 - 跨终端同步响应
+----
+<small>调试和测试是如此的方便</small>
+
+![跨终端同步响应](http://zanjs.b0.upaiyun.com/image/1/c4/aceebbaf49ede7e599027d0d48565.gif)
+
+
+[slide]
+## 我还做了哪些？ 
+###Par2 - Panli前端组件库
+----
+<small>一心一意为小伙伴们服务</small>
+
+<iframe data-src="http://panli.mu.gg/book-pc/" src="about:blank;"></iframe>
+
+
+[slide]
+## 通过日常工作学到了
+[subslide]
+----
+* 同事间的同力协作 {:&.moveIn}
+* 明确工作流程
+* 遇到问题立马解决
+* 职责所在寻求帮助
+* 文字泪奔~~o(>_<)o ~~
+[/subslide]
+
+[slide]
+## 我对于前端的思考
+[subslide]
+---
+* 快速敏捷开发？ {:&.moveIn}
+* 前端工程化 -- 思想很重要
+* 前端自动化 -- 开发环境自动化工具 
+* 前端组件化 --  可复用,可复制。
+* 界面设计语言 -- 风格统一，认识度高。
+[/subslide]
+
+
+[slide]
+## 每每Get新技能后，难掩兴奋ing~~
 ----
 * 技能知识文档的建立 {:&.bounceIn}
 * 每日 (get) 新技能 的心得记录
@@ -124,8 +121,24 @@ panli 主站的 活动页 和 专题页的开发
 	* 暂时就这些吧...
 
 
+
+
 [slide]
-## 技术栈
+## 未来能做什么
+>每日码农,终有一日顶苍天！
+-----
+![码农](http://zanjs.b0.upaiyun.com/image/b/1c/537b37ceab485eae690dce1235420.png)
+
+
+
+[slide]
+## 码农的乐趣之一
+----
+![码农的乐趣之一](http://zanjs.b0.upaiyun.com/image/a/fa/e6f29246efd3669b14b7e15e73042.gif)
+
+
+[slide]
+## 码农的乐趣之二
 ### 涉猎的语言
 ---
 | 语言名称 | 认知度 | 认知度 |
@@ -141,27 +154,12 @@ panli 主站的 活动页 和 专题页的开发
 
 
 [slide]
-## 未来能做什么
-
-
->一年码农,十年树木，百年树人
-
------
-![码农](http://zanjs.b0.upaiyun.com/image/b/1c/537b37ceab485eae690dce1235420.png)
-
+## 码农的乐趣之三
+### 抱歉，下面的演示或许过于专业
 
 
 [slide]
-## 码农的乐趣之一
-----
-
-
-![码农的乐趣之一](http://zanjs.b0.upaiyun.com/image/a/fa/e6f29246efd3669b14b7e15e73042.gif)
-
-
-
-[slide]
-## 界面语言设计库
+## 简单的按钮定义
 ----
 
 <button class="btn btn-default">**我是按钮**</button>  <button class="btn btn-primary">.btn.btn-lg.btn-primary</button> <button class="btn btn-warning">.btn.btn-waring</button> <button class="btn btn-success">.btn.btn-success</button> <button class="btn btn-danger">.btn.btn-danger</button>
@@ -174,7 +172,7 @@ panli 主站的 活动页 和 专题页的开发
 <button class="btn btn-success"><i class="fa fa-share mr5"></i></button>
 
 [slide]
-## icons: Font Awesome
+## ICONS字体库
 ------
 *字体君*
 
@@ -192,6 +190,48 @@ panli 主站的 活动页 和 专题页的开发
 
 
 [slide]
+
+## 代码格式化
+### 使用 `highlightjs` 进行语法高亮
+----
+<div class="columns-2">
+    <pre><code class="javascript">(function(window, document){
+    var a = 1;
+    var test = function(){
+        var b = 1;
+        alert(b);
+    };
+    //泛数组转换为数组
+    function toArray(arrayLike) {
+        return [].slice.call(arrayLike);
+    }
+}(window, document));
+    </code></pre>
+    <pre><code class="javascript">(function(window, document){
+    var a = 1;
+    var test = function(){
+        var b = 1;
+        alert(b);
+    };
+    //泛数组转换为数组
+    function toArray(arrayLike) {
+        return [].slice.call(arrayLike);
+    }
+}(window, document));
+    </code></pre>
+</div>
+
+
+
+[slide]
+## 下面是几个小show
+### 工作总结环节至此已经结束了。
+### 谢谢。
+
+
+
+
+[slide]
 [note]
 ## 如何做好笔记
 
@@ -205,28 +245,9 @@ panli 主站的 活动页 和 专题页的开发
 ---
 按下键盘【N】键预览笔记，
 
-
-[slide data-transition="vertical3d"]
-
-## 职业规划
-
----
-1. 前端深度挖坑 {:&.rollIn}
-2. 做一套全栈型的前端解决方案
-3. 转变编程思想 ((函数式编程思维)[http://www.zhihu.com/question/28292740])
-4. 新技术改变产品用户体验。
-
-
-[slide data-transition="cards"]
-
-## 完结
-
->感谢祖国 ，感谢党 , 感谢公司 , 给我这个机会。
-
-
 [slide data-transition="kontext"]
 
-## 使用画笔 （附录）
+## 使用画笔
 ### 使用画笔做标记哦~你也可以随便作画啊！
 ---
 按下键盘【P】键：按下鼠标左键，在此处乱花下看看效果。
