@@ -41,7 +41,9 @@
   },
   "homepage": "https://github.com/ipanli/panliPPT2#readme",
   "main": "index.js",
-  "devDependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.0"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   }
