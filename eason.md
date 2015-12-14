@@ -8,7 +8,7 @@ usemathjax: yes
 
 [slide data-transition="kontext"]
 
-![标题](http://zanjs.b0.upaiyun.com/image/5/41/d330099ab885fd4d652aaf81a6475.png)
+![标题](http://zanjs.b0.upaiyun.com/image/b/6a/1c320ef56025fb36821f1ae80a700.png)
 
 
 [slide]
@@ -139,7 +139,17 @@ usemathjax: yes
 [/subslide]
 
 [slide]
-![结尾](http://zanjs.b0.upaiyun.com/image/e/f0/736cb533381bd30551ed326d69524.png)
+## 感谢我的小伙伴
+[subslide]
+---
+* 周赞生
+* 他为本PPT提供了扎实而前沿的技术支持
+* 让我们期待他精彩的个人秀
+[/subslide]
+
+
+[slide]
+![结尾](http://zanjs.b0.upaiyun.com/image/1/21/e24826f0884e9a622d7cf58ba8d65.png)
 
 
 
