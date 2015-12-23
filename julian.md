@@ -1,4 +1,4 @@
-title: 2015年述职报告
+title:  周赞生  2015年述职报告
 speaker: zan 
 url: https://github.com/ipanli/panliPPT.git
 transition: move
@@ -86,6 +86,10 @@ $$ x = {-b \pm \sqrt{b^2-4ac} \over 2a}.    s = ut + \frac{1}{2}at^2 $$
 
 <iframe data-src="http://panli.mu.gg/book-pc/" src="about:blank;"></iframe>
 
+[slide]
+## 代码管理工具
+
+![代码管理工具](http://zanjs.b0.upaiyun.com/image/6/bb/46c8625ddb593a17dd48206e17cb5.png)
 
 [slide]
 ## 通过日常工作学到了
@@ -125,7 +129,7 @@ $$ x = {-b \pm \sqrt{b^2-4ac} \over 2a}.    s = ut + \frac{1}{2}at^2 $$
 
 [slide]
 ## 未来能做什么
->每日码农,终有一日顶苍天！
+>一年码农,十年树木,百年树人！
 -----
 ![码农](http://zanjs.b0.upaiyun.com/image/b/1c/537b37ceab485eae690dce1235420.png)
 
@@ -189,37 +193,8 @@ $$ x = {-b \pm \sqrt{b^2-4ac} \over 2a}.    s = ut + \frac{1}{2}at^2 $$
 <i class="fa fa-cog"></i>
 
 
-[slide]
 
-## 代码格式化
-### 使用 `highlightjs` 进行语法高亮
-----
-<div class="columns-2">
-    <pre><code class="javascript">(function(window, document){
-    var a = 1;
-    var test = function(){
-        var b = 1;
-        alert(b);
-    };
-    //泛数组转换为数组
-    function toArray(arrayLike) {
-        return [].slice.call(arrayLike);
-    }
-}(window, document));
-    </code></pre>
-    <pre><code class="javascript">(function(window, document){
-    var a = 1;
-    var test = function(){
-        var b = 1;
-        alert(b);
-    };
-    //泛数组转换为数组
-    function toArray(arrayLike) {
-        return [].slice.call(arrayLike);
-    }
-}(window, document));
-    </code></pre>
-</div>
+
 
 
 

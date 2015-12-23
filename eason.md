@@ -10,33 +10,18 @@ usemathjax: yes
 
 ![标题](http://zanjs.b0.upaiyun.com/image/b/6a/1c320ef56025fb36821f1ae80a700.png)
 
-
 [slide]
-#Who am I - Par1
+# 我是谁?
+[subslide]
 ----
-###曾经年少
-
-![少年时](http://zanjs.b0.upaiyun.com/image/0/d8/c524b41b2b0949a0b64b111995b37.jpg)
-
-[slide]
-#Who am I - Par2
-----
-###后来悔悟
-![后来悔悟](http://zanjs.b0.upaiyun.com/image/e/2a/5e5c9fe385a54a9c315f5d6c679df.jpg)
-
-
-[slide]
-#Who am I - Par3
-----
-###也曾迷茫
-![曾经迷茫](http://zanjs.b0.upaiyun.com/image/e/f1/2c86b46973a57132a2a556388de08.jpg)
-
-
-[slide]
-#Who am I - Par4
-----
-###未来愿景
-![未来愿景](http://zanjs.b0.upaiyun.com/image/6/d1/651e06f104fa690ebccfb4b22c352.jpg)
+* 我是一个80后 {:&.rollIn}
+* 我不聪明，但我很执着
+* 我从事IT行业12年
+* 随着互联网发展，大环境越加浮躁
+* 如今我沉淀下来的几乎很少
+* 但却足以让我在Panli这个稳健的平台上学以致用
+* 我是周毅，Eason
+[/subslide]
 
 
 [slide]
@@ -97,11 +82,11 @@ usemathjax: yes
 ## 我在Panli做了哪些事
 [subslide]
 ---
-* 以旧带新（微信红包）项目。 {:&.rollIn}
-* 番币项目（前端）。
-* APP导购项目（后端）。
-* APP社区项目（H5+后端）。
-* 很多运营活动的开发，最近有双11双12等。
+* 带队完成了：以旧带新（微信红包）项目。 {:&.rollIn}
+* 带队参与了：番币项目。
+* 带队参与了：APP导购项目。
+* 带队参与了：APP社区项目。
+* 带队完成了：很多运营活动的开发，最近有双11双12等。
 * 前端组梯队的搭建，小伙伴们一级棒！
 [/subslide]
 
@@ -122,7 +107,7 @@ usemathjax: yes
 [subslide]
 ---
 * 团队架构更加清晰稳健 {:&.zoomIn}
-* 内部培训和激励，加速团队成员能力提升
+* Get更多新技能
 * 能够进行高效的敏捷开发
 * 前端框架清晰化，制定标准及提供丰富的组件库
 * 基于云环境下部署开发，云计算等方面的学习预研
@@ -134,6 +119,7 @@ usemathjax: yes
 ---
 * 带好一支团队 {:&.zoomIn}
 * H5混合应用开发及云开发方向的学习和探索
+* 将所学的云计算知识应用到Panli的工作中去
 * 踏踏实实的做好自己
 * 以上所述均以为公司提供优质服务为最终目标
 [/subslide]
@@ -144,7 +130,17 @@ usemathjax: yes
 ---
 * 周赞生
 * 他为本PPT提供了扎实而前沿的技术支持
-* 让我们期待他精彩的个人秀
+[/subslide]
+
+
+[slide]
+## 感恩2015
+[subslide]
+---
+* 感恩Panda提供了这样一个优秀的平台给我。
+* 感恩我的小伙伴们对我的信任和支持。
+* 2016我准备好了
+* 谢谢观赏
 [/subslide]
 
 
